@@ -2,10 +2,6 @@ import java.util.Random;
 import java.util.concurrent.CountDownLatch;
 
 public class RunTest {
-    public static CountDownLatch begin = new CountDownLatch(2);
-    public static CountDownLatch end = new CountDownLatch(2);
-
-
 
 
     static class Runer  implements Runnable{
