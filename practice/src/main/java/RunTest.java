@@ -12,6 +12,7 @@ public class RunTest {
         Runer runer2 = new Runer("2");
         //1
         //2
+//333333
 
         Thread thread1 = new Thread(runer1);
         Thread thread2 = new Thread(runer2);
