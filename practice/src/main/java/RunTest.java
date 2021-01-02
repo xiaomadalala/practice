@@ -7,9 +7,6 @@ public class RunTest {
 
 
 
-    public static void main(String[] args) throws InterruptedException {
-
-    }
 
     static class Runer  implements Runnable{
         private String name;
