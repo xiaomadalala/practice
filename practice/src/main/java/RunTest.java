@@ -11,6 +11,7 @@ public class RunTest {
         Runer runer1 = new Runer("1");
         Runer runer2 = new Runer("2");
         //1
+        //2
 
         Thread thread1 = new Thread(runer1);
         Thread thread2 = new Thread(runer2);
